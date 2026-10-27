@@ -18,15 +18,6 @@ a:active {
 	text-decoration: underline;
 }
 
-.navbar.bg-primary {
-	background-color: #FFE4E8 !important;
+.navbar {
 	padding-left: 20px;
-}
-
-.navbar .nav-link,
-.navbar .nav-link:visited,
-.navbar .nav-link:hover,
-.navbar .nav-link:focus,
-.navbar .nav-link:active {
-	color: #F75B70;
 }
